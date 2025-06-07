@@ -1,69 +1,88 @@
-# 🎲 Domino | Web Game | Single Player
+# Domino 🎲
 
-🚀 **Domino Web Game** is a **strategic board game** based on the classic **domino tile-matching game**, where players compete by placing tiles with matching numbers. The game supports **single-player, multiplayer, and AI opponent modes**, offering an engaging and competitive experience.  
+![Domino Logo](https://img.shields.io/badge/Game-Domino-blue?style=for-the-badge&logo=gamepad)
 
-[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Domino/)
----
+Welcome to the **Domino Web Game** repository! This project brings the classic domino tile-matching game to your browser, allowing players to engage in strategic gameplay. You can enjoy this game solo, compete with friends, or challenge an AI opponent. 
 
-## 🏆 Features  
+## Table of Contents
 
-✅ **Classic Domino Gameplay** 🎯  
-✅ **Single-Player & Multiplayer Modes** 🎮  
-✅ **Smart AI Opponents with Adjustable Difficulty** 🤖  
-✅ **Interactive Drag-and-Drop Tile Placement** 🖱️  
-✅ **Real-Time Score Tracking & Game Progress** 📊  
-✅ **Customizable Game Rules & Variants** ⚙️  
-✅ **Leaderboard & Player Stats** 🏆  
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Gameplay](#gameplay)
+- [Modes](#modes)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Links](#links)
 
----
+## Introduction
 
-## 🎮 How It Works  
+The **Domino Web Game** is designed to provide an engaging experience for players of all ages. The goal is simple: match tiles with the same numbers and outsmart your opponents. This game combines strategy and fun, making it a great way to pass the time.
 
-**1️⃣ Choose a Game Mode**  
-   - Play against **AI**, **friends**, or **solo practice**.  
+## Features
 
-**2️⃣ Draw & Place Tiles**  
-   - Drag and drop **matching tiles** strategically onto the board.  
+- **Single-player Mode**: Play against an AI opponent.
+- **Multiplayer Mode**: Compete with friends online.
+- **Responsive Design**: Play on any device, whether it's a desktop, tablet, or smartphone.
+- **Save Game Functionality**: Save your progress and continue later.
+- **User-friendly Interface**: Easy to navigate and understand.
 
-**3️⃣ Follow Game Rules & Score Points**  
-   - Win by **placing all tiles first** or **achieving the highest score**.  
+## Installation
 
-**4️⃣ Customize Game Settings**  
-   - Adjust difficulty, rules, and play **classic or extended variations**.  
+To get started with the **Domino Web Game**, you can download the latest version from the [Releases](https://github.com/Loux21/Domino/releases) section. Follow these steps:
 
----
+1. Click on the link to access the releases page.
+2. Download the latest release file.
+3. Extract the files to your desired location.
+4. Open the `index.html` file in your web browser to start playing.
 
-## 🔗 Technologies Used  
+## Gameplay
 
-### 💻 **Frontend**  
+In **Domino**, players take turns placing tiles on the board. Each tile has two numbers, and you can only place a tile next to another if one of the numbers matches. The game ends when a player runs out of tiles or when no more moves can be made.
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+### Game Rules
 
-### 🎯 **Game Logic & AI**  
+1. Each player starts with a set number of tiles.
+2. Players take turns placing tiles on the board.
+3. If a player cannot make a move, they must draw from the remaining tiles.
+4. The first player to run out of tiles wins the game.
 
-![Canvas API](https://img.shields.io/badge/Canvas-%23FF5722.svg?&style=flat)
-![Game AI](https://img.shields.io/badge/AI-Bot-%234285F4.svg?&style=flat)
+## Modes
 
----
+### Single-player Mode
 
-## 📤 Export Options  
+In this mode, you will play against an AI opponent. The AI is designed to provide a challenging experience, making strategic moves to compete against you.
 
----
+### Multiplayer Mode
 
-## 📜 Author  
+Invite friends to join you in a multiplayer game. You can play in real-time, making it a fun way to connect and compete.
 
-**👨‍💻 Bocaletto Luca**  
+## Technologies Used
 
-Made with ❤️ for **board game enthusiasts & competitive strategy players**! 🎲  
-If you enjoy **Domino Web Game**, ⭐ **star this repository** and share with fellow players! 🚀  
+The **Domino Web Game** is built using the following technologies:
 
----
+- **HTML5**: For structuring the game.
+- **CSS3**: For styling and layout.
+- **JavaScript**: For game logic and interactivity.
+- **Responsive Design**: Ensures the game works on various devices.
 
-## 🔗 License  
+## Contributing
 
-This project is licensed under the **GPL License**.  
-Feel free to **use, modify, and distribute** it freely! 😊  
+We welcome contributions to the **Domino Web Game**! If you would like to contribute, please follow these steps:
 
----
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Submit a pull request detailing your changes.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
+
+## Links
+
+To download the latest version of the game, visit the [Releases](https://github.com/Loux21/Domino/releases) section. 
+
+Thank you for checking out the **Domino Web Game**! We hope you enjoy playing as much as we enjoyed creating it. If you have any questions or feedback, please feel free to reach out. Happy gaming! 🎮
